@@ -110,7 +110,7 @@ a {
   display: block;
   max-width: 504px;
 
-  margin: 0px 0px 0px 548px;
+  margin: 0px auto;
 }
 .started-button {
   width: 184px;
