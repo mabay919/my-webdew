@@ -206,7 +206,7 @@ a {
   background-repeat: no-repeat;
   background-size: cover;
 
-  content: url(assets/mail_fff_hov.svg);
+  content: url(./assets/mail_fff_hov.svg);
   transform: scale(1.5);
   box-shadow: 0px 0px 3px #b80000, 0px 0px 9px #f75656;
   text-shadow: 0px 0px 3px #b80000, 0px 0px 9px #f75656;
@@ -216,7 +216,7 @@ a {
   background-repeat: no-repeat;
   background-size: cover;
 
-  content: url(assets/facebook_fff_fb.svg);
+  content: url(./assets/facebook_fff_fb.svg);
   transform: scale(1.5);
   box-shadow: 0px 0px 3px #3b5998, 0px 0px 9px #4f6491;
   text-shadow: 0px 0px 3px #3b5998, 0px 0px 9px #4f6491;
@@ -226,7 +226,7 @@ a {
   background-repeat: no-repeat;
   background-size: cover;
 
-  content: url(assets/insta_fff_hov.svg);
+  content: url(./assets/insta_fff_hov.svg);
   transform: scale(1.5);
   box-shadow: 0px 0px 3px #bc2a8d, 0px 0px 9px rgb(231, 116, 116);
   text-shadow: 0px 0px 3px #bc2a8d, 0px 0px 9px rgb(231, 116, 116);
@@ -236,7 +236,7 @@ a {
   background-repeat: no-repeat;
   background-size: cover;
 
-  content: url(assets/telegram_fff_hov.svg);
+  content: url(./assets/telegram_fff_hov.svg);
   transform: scale(1.5);
   box-shadow: 0px 0px 3px #dd4b39, 0px 0px 9px#d36759;
   text-shadow: 0px 0px 3px #dd4b39, 0px 0px 9px#d36759;
